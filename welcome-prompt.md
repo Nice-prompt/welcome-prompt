@@ -22,6 +22,7 @@ Do not be afraid to break things—this is your space to learn and grow!
 
 > **Pro Tip**: You can use Markdown to format text, and create headers, lists, or even tables. Have fun exploring all the possibilities!
 
+You can join the Nice Prompt community on [@Twitter](https://x.com/i/communities/1863544877465653311) and learn how others use Nice Prompt and share prompts.
 
 ### Additional Tools
 - **Chrome Extension**: [Nice Prompt on Chrome Web Store](https://chromewebstore.google.com/detail/nice-prompt/kkcokpabigjichobneghealfkpfefjmg?hl=)  
